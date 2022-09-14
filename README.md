@@ -30,3 +30,11 @@
 #### Btrfs ( B-Tree File System ):
 - Focus on fault tolerance, fun administration, repair System, large storage configuration and is still under development. Btrfs is not recommended for Production System.
 
+### In Addition:
+#### Clustered File Format:
+- Clustered file System is not required for booting but best suited in shared environment form storage point of view.
+
+#### Non-Linux File Format:
+- NTFS by Microsoft.
+- HFS by Apple/Mac os.
+- Most of these can be used under Linux by mounting them using certain tools like ntfs-3g to Mount NTFS file system but not preferred under Linux.
