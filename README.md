@@ -38,3 +38,5 @@
 - NTFS by Microsoft.
 - HFS by Apple/Mac os.
 - Most of these can be used under Linux by mounting them using certain tools like ntfs-3g to Mount NTFS file system but not preferred under Linux.
+
+> IMPORTANT NOTE: Ext4 is the preferred and most widely used Linux file System. In certain Special case XFS and ReiserFS are used. Btrfs is still used in experimental environment.
